@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TOBAT</string>
+    <string name="title_activity_fever">Fever</string>
+    <string name="title_activity_eyes">Eyes</string>
+    <string name="title_activity_kids">Kids</string>
+    <string name="title_activity_allergy">Allergy</string>
+    <string name="title_activity_vitamin">Vitamin</string>
+    <string name="title_activity_skin">Skin</string>
+    <string name="title_activity_herbal">Herbal</string>
+    <string name="title_activity_flu">Flu</string>
+    <string name="title_activity_asthma">Asthma</string>
+    <string name="title_activity_dashboard">Dashboard</string>
+    <string name="title_activity_antibiotics">Antibiotics</string>
+    <string name="masuk">Masuk</string>
+    <string name="email">Mobile Phone</string>
+    <string name="password">Password</string>
+    <string name="login">Masuk</string>
+    <string name="username">Username</string>
+    <string name="register">Register</string>
+    <string name="back_to_login">Back To Login</string>
+</resources>

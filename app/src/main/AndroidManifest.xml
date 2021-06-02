@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.login2">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_logoo"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_logoo"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".RegisterActivity"></activity>
+        <activity android:name=".Herbal" />
+        <activity android:name=".Asthma" />
+        <activity android:name=".Vitamin" />
+        <activity
+            android:name=".Allergy"
+            android:label="@string/title_activity_allergy"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Kids"
+            android:label="@string/title_activity_kids"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Eyes"
+            android:label="@string/title_activity_eyes"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".Skin" />
+        <activity android:name=".Antibiotics" />
+        <activity
+            android:name=".Fever"
+            android:label="@string/title_activity_fever"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".Flu" />
+        <activity android:name=".Dashboard" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
